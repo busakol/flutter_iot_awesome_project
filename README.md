@@ -1,16 +1,9 @@
-# flutter_iot_awesome_project
+## Mobile Application by Flutter/Dart
 
-A new Flutter project.
+## แอปพลิเคชั่นแสดงหน้าจอ Home, Login, Signup
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1442"  src="https://github.com/user-attachments/assets/9cc715f9-a7ee-47e8-94fb-19a56409c273" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img width="1442"  src="https://github.com/user-attachments/assets/15139af6-fb67-4f86-b516-c74940f03472" />
+<br /><br /><br />
+<img width="1442"  src="https://github.com/user-attachments/assets/7e212c47-f306-4f58-9668-73a272a5713c" />
